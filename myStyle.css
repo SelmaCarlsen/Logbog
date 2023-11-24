@@ -5,7 +5,7 @@ body {
 .header {                   /* . betyder det er en class */
   padding: 30px;
   text-align: center;
-  background: rgb(80,160,200);
+  background: rgb(242, 69, 222);
 }
 
                             /* sætter h1 i header klassen til fontsize 50px*/
@@ -44,7 +44,7 @@ pre{
 
 .boxFloatRighe{
 float: right;
-background-color: rgb(200,100,100);
+background-color: rgb(37, 233, 44);
 width: 40%;
 height: 40%;
 overflow: hidden;
